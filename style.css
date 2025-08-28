@@ -1,0 +1,37 @@
+#logo{
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#navbar {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #F5E6D3
+}
+
+#navbar li {
+    margin-right: 20px;
+    border-left: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+#navbar-block{
+    text-align: center;
+    height: 50px;
+    background-color: #F5E6D3
+}
+
+.account-login{
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 0 auto; /* This centers the element on the page */
+}
